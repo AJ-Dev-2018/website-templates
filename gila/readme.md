@@ -1,5 +1,5 @@
 ## Project Description
 
-* [live example](https://learning-zone.github.io/website-templates/gila/)
+* [live example](https://aj-dev-2018.github.io/website-templates/gila/)
 
 ![alt text](https://github.com/learning-zone/Website-Templates/blob/master/assets/gila.png "gila")
